@@ -1,0 +1,19 @@
+please forward this meeting request if i missed anyone.
+
+1. Blog where we share updates regarding updates on both .NET Platform and UI Platform.(https://collab.namecheap.net/pages/viewrecentblogposts.action?key=NPNF)
+2. Documentation for Layout Composer - our component for composing HTML pages for new sites. (https://collab.namecheap.net/display/NPNF/Layout+Composer)
+3. Routing scheme for NGINX (https://collab.namecheap.net/display/NPNF/NGINX+Routing+Scheme)
+4. Home for UI platform - there we gather documentation related to building front-end based on Angular framework. Home page also contains useful links about the technology stack we currently use for building frontend. (https://collab.namecheap.net/display/NPNF/NC+Platform%3A+UI)
+5. Sample UI application which could be used as starting point for new UI fragments. (https://git.namecheap.net/projects/NCPL/repos/nc.ui.typicalapp/browse/README.md)
+6. Documentation for UI library for standard components. NOTE: there is a link to bsbx115 just for the reference, but this documentation is available on every branchsandbox which is prepared for new UI. The branchsandbox of the team which owns library is bsbx119. (https://phx01bsbx115.sb.corp.namecheap.net/internal/uiwiki)
+
+DIY Alkaline Water Recipe
+You will need:
+1 tablespoon of Himalayan salt
+2l of purified water
+1 large glass jar
+1 organic lemon
+Instructions:
+Wash the lemon and cut it in slices. Pour the water into the jar, and add the unpeeled lemon. Then, add the Himalayan salt, cover, and leave it at room temperature for up to 24 hours.
+Use:
+Drink 3 glasses of the alkaline water before your breakfast. You can drink the rest during the day.
